@@ -1,6 +1,6 @@
 class Book
   
-  def initialize(title = "And Then There Were None", author)
+  def initialize(title = "And Then There Were None", author = "Agatha Christie")
     @title = title
     @author = author
   end
