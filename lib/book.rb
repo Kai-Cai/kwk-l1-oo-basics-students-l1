@@ -17,5 +17,6 @@ end
 
 
 book_1 = Book.new("And Then There Were None", "Agatha Cristie")
-book_2 = Book.new("And Then There Were None", "Lemon Bars")
+
+
 puts book_1.title
