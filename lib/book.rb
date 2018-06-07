@@ -16,7 +16,7 @@ class Book
 end
 
 
-book_1 = Book.new("And Then There Were None", "Agatha Cristie")
+book_1 = Book.new("And Then There Were None", "Agatha Christie")
 
 
 puts book_1.author
